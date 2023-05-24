@@ -6,4 +6,10 @@ then run the sprigboot application by running the SpringbootwebApplication.java 
 For running the frontend  first go to pr2 folder and run the "npm i" command to download the node_modules 
 Then run "npm start" command 
 
+To open the recruiter page
+recruiter email-id=>rohittambare5@gmail.com
+recruiter password=>qwerty
+
+Any jobseeker can registrer through signup option.
+
 ThankYou
