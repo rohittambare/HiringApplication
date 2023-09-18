@@ -10,6 +10,6 @@ To open the recruiter page
 recruiter email-id=>rohittambare5@gmail.com
 recruiter password=>qwerty
 
-Any jobseeker can registrer through signup option.
+Any jobseeker/Java Develpoer can registrer through signup option.
 
 ThankYou
